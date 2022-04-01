@@ -1,5 +1,3 @@
-![screenshot](https://user-images.githubusercontent.com/4316355/78681326-98bd1480-78ba-11ea-9cd8-3052397a87a7.png)
-
 ## Installation
 
 1. Clone the repo and `cd` into it
