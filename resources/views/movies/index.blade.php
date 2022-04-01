@@ -9,7 +9,6 @@
                 @foreach ($popularMovies as $movie)
                     <x-movie-card :movie="$movie" />
                 @endforeach
-
             </div>
         </div> <!-- end pouplar-movies -->
 
